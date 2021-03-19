@@ -44,7 +44,7 @@ const { VimeoExtractor, DiscordExtractor, FacebookExtractor, ReverbnationExtract
  */
 
 const filters = {
-    bassboost: 'bass=g=20',
+    bassboost: 'bass=g=10',
     '8D': 'apulsator=hz=0.09',
     vaporwave: 'aresample=48000,asetrate=48000*0.8',
     nightcore: 'aresample=48000,asetrate=48000*1.25',
